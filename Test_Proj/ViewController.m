@@ -19,6 +19,7 @@
     [super viewDidLoad];
     NSLog(@"testing this super dope hotness");
     NSLog(@"Fresshhhhhhhhhhh, yeah i changed something.");
+    NSLog(@"call me PSH");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
