@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"testing this super dope hotness");
-    NSLog(@"Fresshhhhhhhhhhh");
+    NSLog(@"Fresshhhhhhhhhhh, yeah i changed something.");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
